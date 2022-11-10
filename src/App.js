@@ -3,9 +3,6 @@ import brightSrc from './assets/brightposter.jpg';
 import trposter from './assets/tombraiderposter.jpg';
 import brightbackground from './assets/brightbackground.jpg';
 import tombraiderbackground from './assets/tombraiderbackground.jpg';
-// import shareIcon from './assets/share.svg';
-// import heartIcon from './assets/heart.svg';
-// import commentIcon from './assets/comment.svg';
 
 function App() {
 
@@ -18,7 +15,6 @@ function App() {
     posterSrc: [brightSrc, trposter],
     genre: ['Action, Crime, Fantasy', ['Action, Fantasy']],
     backgroundImageSrc: [brightbackground, tombraiderbackground],
-    // icon: [shareIcon, heartIcon, commentIcon],
     backgroundShadow: ['#1B0804', '#0A1512']
   }
 
