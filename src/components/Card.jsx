@@ -27,11 +27,6 @@ const Card = ( props ) => {
                     {props.description}
                 </h5>
             </div>
-            {/* <div className='icondiv'>
-                <img alt='shareicon' src={ props.icon[ 0 ] }></img>
-                <img alt='likeicon' src={ props.icon[ 1 ] }></img>
-                <img alt='commenticon' src={ props.icon[ 2 ] }></img>
-            </div> */}
         </div>
     )
 };
